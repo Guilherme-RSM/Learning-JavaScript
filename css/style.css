@@ -57,5 +57,22 @@ h2 {
     
 p {
     width:90%;
+    margin-top:15px;
 }
    
+
+summary {
+    font-weight:700;
+}
+
+summary:hover {
+    cursor:pointer;
+    color:#1f943c;}
+.explicacoes {
+
+    margin-top:20px;
+}
+
+.terminologias-destacadas {
+    font-weight: 700;
+}
